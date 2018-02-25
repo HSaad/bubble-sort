@@ -2,7 +2,7 @@
 
 ## bubble_sort
 
-A method called #bubble_sort that takes an array and returns a sorted arraym using the buble sort methodology.
+A method called #bubble_sort that takes an array and returns a sorted array using the bubble sort methodology.
 
 	bubble_sort([4,3,78,2,0,2])
 	=> [0,2,2,3,4,78]
